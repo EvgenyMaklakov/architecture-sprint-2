@@ -11,4 +11,5 @@ rs.initiate(
       ]
     }
 );
+exit();
 EOF
