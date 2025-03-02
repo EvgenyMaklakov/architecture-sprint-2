@@ -30,8 +30,3 @@ docker compose up -d
 ./scripts/04_router_init.sh
 ```
 
-Для удобства написан скрипт, который запускает все скрипты описанные ранее
-
-```
-./scripts/sharding_init.sh
-```
